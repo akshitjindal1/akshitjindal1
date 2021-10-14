@@ -1,7 +1,6 @@
 # Hi, I am <a href="https://www.linkedin.com/in/bigfatgoalie">Akshit Jindal</a> 👋👨‍💻 
-### I am a Software Engineer with a lot of experience in the Natural Language Processing domain. I am fairly proficient in Python and Data analysis using Pandas, NumPy, Matplotlib, Seaborn and Scikit Learn. I am also familiar with Machine learning frameworks such as PyTorch and Tensorflow, and have built and trained models in the past. 
-
-#### I am currently working as a Senior Software Engineer at Samsung Research Institute Bengaluru. I have experience building machine learning models for Text Classification, Text generation (Chatbots) and Text to Speech Conversion(TTS). I am actively seeking new opportunities at the moment. Please feel free to reach out to me.
+### I am currently a PhD student at IIIT-Delhi. I am fairly proficient in Python and Data analysis using Pandas, NumPy, Matplotlib, Seaborn and Scikit Learn. I am also familiar with Machine learning frameworks such as PyTorch and Tensorflow, and have built and trained models in the past. 
+### Currently I am working on detecting privacy issues in ML models. Areas like Model extraction, model inversion and machine unlearning are my current topics of interest. 
 
 Connect with me on Linkedin. 
 ---
