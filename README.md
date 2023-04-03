@@ -4,7 +4,7 @@
 
 Connect with me on Linkedin. 
 ---
-[![Linkedin: Akshit Jindal](https://img.shields.io/badge/-Akshit%20Jindal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bigfatgoalie/)](https://www.linkedin.com/in/bigfatgoalie/)
+[![Linkedin: Akshit Jindal](https://img.shields.io/badge/-Akshit%20Jindal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitjindal1/)](https://www.linkedin.com/in/akshitjindal1/)
 
 #### Visitors Count
 ![VisitorCount](https://profile-counter.glitch.me/{akshitjindal1}/count.svg)
