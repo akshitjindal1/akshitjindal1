@@ -1,4 +1,4 @@
-# Hi, I am <a href="https://www.linkedin.com/in/bigfatgoalie">Akshit Jindal</a> 👋👨‍💻 
+# Hi, I am <a href="https://www.linkedin.com/in/akshitjindal1">Akshit Jindal</a> 👋👨‍💻 
 ### I am currently a PhD student at IIIT-Delhi. I am fairly proficient in Python and Data analysis using Pandas, NumPy, Matplotlib, Seaborn and Scikit Learn. I am also familiar with Machine learning frameworks such as PyTorch and Tensorflow, and have built and trained models in the past. 
 ### Currently I am working on detecting privacy issues in ML models. Areas like Model extraction, model inversion and machine unlearning are my current topics of interest. 
 
