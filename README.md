@@ -2,7 +2,7 @@
 ### I am currently a PhD student at IIIT-Delhi. I am fairly proficient in Python and Data analysis using Pandas, NumPy, Matplotlib, Seaborn and Scikit Learn. I am also familiar with Machine learning frameworks such as PyTorch and Tensorflow, and have built and trained models in the past. 
 ### Currently I am working on detecting privacy issues in ML models. Areas like Model extraction, model inversion and machine unlearning are my current topics of interest. 
 
-Connect with me on Linkedin. [![Linkedin: Akshit Jindal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitjindal1/)](https://www.linkedin.com/in/akshitjindal1/)
+Connect with me: [![Linkedin: Akshit Jindal](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshitjindal1/)](https://www.linkedin.com/in/akshitjindal1/) [![Twitter: Akshit Jindal](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fakshitjindal01)](https://x.com/akshitjindal01)
 ---
 
 
